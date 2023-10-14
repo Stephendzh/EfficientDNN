@@ -1,4 +1,0 @@
-C:/Efficient_DNN/cmake-build-debug/CMakeFiles/Efficient_DNN.dir
-C:/Efficient_DNN/cmake-build-debug/CMakeFiles/b.dir
-C:/Efficient_DNN/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Efficient_DNN/cmake-build-debug/CMakeFiles/rebuild_cache.dir
