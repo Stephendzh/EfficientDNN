@@ -1,0 +1,5 @@
+# ninja log v5
+0	233	7189900406801767	CMakeFiles/Efficient_DNN.dir/main.cpp.obj	730e556201f44a52
+4	284	7189900407311677	CMakeFiles/Efficient_DNN.dir/img2col_conv.cpp.obj	388f419d388395e5
+0	286	7189902935421815	CMakeFiles/b.dir/img2col_conv.cpp.obj	8bfac1d17538722e
+287	348	7189902936018153	b.exe	8ee86a00e15b9a83
